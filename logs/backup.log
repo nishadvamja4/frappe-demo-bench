@@ -1,0 +1,1638 @@
+set -o pipefail; /usr/bin/mariadb-dump --user=_a653c6c66c4348a3 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _a653c6c66c4348a3 | /usr/bin/gzip >> ./NV/private/backups/20240313_180002-NV-database.sql.gz
+
+Backup Summary for NV at 2024-03-13 18:00:02.840017
+Config  : /home/nishad/brother/sites/NV/private/backups/20240313_180002-NV-site_config_backup.json 127.0B
+Database: /home/nishad/brother/sites/NV/private/backups/20240313_180002-NV-database.sql.gz 228.2KiB
+Backup for Site NV has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_a653c6c66c4348a3 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _a653c6c66c4348a3 | /usr/bin/gzip >> ./sans/private/backups/20240314_120002-sans-database.sql.gz
+
+Backup Summary for sans at 2024-03-14 12:00:02.423597
+Config  : /home/nishad/brother/sites/sans/private/backups/20240314_120002-sans-site_config_backup.json 127.0B
+Database: /home/nishad/brother/sites/sans/private/backups/20240314_120002-sans-database.sql.gz 235.8KiB
+Backup for Site sans has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_a653c6c66c4348a3 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _a653c6c66c4348a3 | /usr/bin/gzip >> ./sans/private/backups/20240314_180002-sans-database.sql.gz
+
+Backup Summary for sans at 2024-03-14 18:00:02.633766
+Config  : /home/nishad/brother/sites/sans/private/backups/20240314_180002-sans-site_config_backup.json 127.0B
+Database: /home/nishad/brother/sites/sans/private/backups/20240314_180002-sans-database.sql.gz 247.0KiB
+Backup for Site sans has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_a653c6c66c4348a3 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _a653c6c66c4348a3 | /usr/bin/gzip >> ./sans/private/backups/20240315_120002-sans-database.sql.gz
+
+Backup Summary for sans at 2024-03-15 12:00:02.682444
+Config  : /home/nishad/brother/sites/sans/private/backups/20240315_120002-sans-site_config_backup.json 127.0B
+Database: /home/nishad/brother/sites/sans/private/backups/20240315_120002-sans-database.sql.gz 250.4KiB
+Backup for Site sans has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_a653c6c66c4348a3 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _a653c6c66c4348a3 | /usr/bin/gzip >> ./sans/private/backups/20240315_180002-sans-database.sql.gz
+
+Backup Summary for sans at 2024-03-15 18:00:02.550686
+Config  : /home/nishad/brother/sites/sans/private/backups/20240315_180002-sans-site_config_backup.json 127.0B
+Database: /home/nishad/brother/sites/sans/private/backups/20240315_180002-sans-database.sql.gz 254.3KiB
+Backup for Site sans has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_a653c6c66c4348a3 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _a653c6c66c4348a3 | /usr/bin/gzip >> ./sans/private/backups/20240318_120001-sans-database.sql.gz
+
+Backup Summary for sans at 2024-03-18 12:00:02.255573
+Config  : /home/nishad/brother/sites/sans/private/backups/20240318_120001-sans-site_config_backup.json 127.0B
+Database: /home/nishad/brother/sites/sans/private/backups/20240318_120001-sans-database.sql.gz 256.9KiB
+Backup for Site sans has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_a653c6c66c4348a3 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _a653c6c66c4348a3 | /usr/bin/gzip >> ./sans/private/backups/20240318_180002-sans-database.sql.gz
+
+Backup Summary for sans at 2024-03-18 18:00:03.575379
+Config  : /home/nishad/brother/sites/sans/private/backups/20240318_180002-sans-site_config_backup.json 127.0B
+Database: /home/nishad/brother/sites/sans/private/backups/20240318_180002-sans-database.sql.gz 256.9KiB
+Backup for Site sans has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_a653c6c66c4348a3 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _a653c6c66c4348a3 | /usr/bin/gzip >> ./sans/private/backups/20240319_120002-sans-database.sql.gz
+
+Backup Summary for sans at 2024-03-19 12:00:02.674231
+Config  : /home/nishad/brother/sites/sans/private/backups/20240319_120002-sans-site_config_backup.json 194.0B
+Database: /home/nishad/brother/sites/sans/private/backups/20240319_120002-sans-database.sql.gz 259.3KiB
+Backup for Site sans has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_a653c6c66c4348a3 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _a653c6c66c4348a3 | /usr/bin/gzip >> ./sans/private/backups/20240319_180002-sans-database.sql.gz
+
+Backup Summary for sans at 2024-03-19 18:00:02.530947
+Config  : /home/nishad/brother/sites/sans/private/backups/20240319_180002-sans-site_config_backup.json 194.0B
+Database: /home/nishad/brother/sites/sans/private/backups/20240319_180002-sans-database.sql.gz 265.4KiB
+Backup for Site sans has been successfully completed
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x7141b149bac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x7141b2c72e60>
+      dirname = <function dirname at 0x7141b2c72a70>
+      join = <function join at 0x7141b2c727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7141b2d63400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7141b2d63400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x7efbbc28bac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x7efbbda72e60>
+      dirname = <function dirname at 0x7efbbda72a70>
+      join = <function join at 0x7efbbda727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7efbbdb63400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7efbbdb63400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x7357ea087ac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x7357eb872e60>
+      dirname = <function dirname at 0x7357eb872a70>
+      join = <function join at 0x7357eb8727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7357eb963400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7357eb963400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x78cebdc8bac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x78cebf472e60>
+      dirname = <function dirname at 0x78cebf472a70>
+      join = <function join at 0x78cebf4727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x78cebf563400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x78cebf563400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x793e21d97ac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x793e23572e60>
+      dirname = <function dirname at 0x793e23572a70>
+      join = <function join at 0x793e235727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x793e23ec3400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x793e23ec3400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x779deca9fac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x779dee272e60>
+      dirname = <function dirname at 0x779dee272a70>
+      join = <function join at 0x779dee2727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x779dee363400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x779dee363400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x7f8f9f197ac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x7f8fa0972e60>
+      dirname = <function dirname at 0x7f8fa0972a70>
+      join = <function join at 0x7f8fa09727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7f8fa12c3400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7f8fa12c3400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x7912c9087ac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x7912ca872e60>
+      dirname = <function dirname at 0x7912ca872a70>
+      join = <function join at 0x7912ca8727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7912ca963400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7912ca963400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x7a8f85997ac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x7a8f87172e60>
+      dirname = <function dirname at 0x7a8f87172a70>
+      join = <function join at 0x7a8f871727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7a8f87acf400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7a8f87acf400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x71de5aa9fac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x71de5c376e60>
+      dirname = <function dirname at 0x71de5c376a70>
+      join = <function join at 0x71de5c3767a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x71de5cc97400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x71de5cc97400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x7a5156c87ac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x7a5158472e60>
+      dirname = <function dirname at 0x7a5158472a70>
+      join = <function join at 0x7a51584727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7a5158563400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7a5158563400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x7dc0a3197ac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x7dc0a4972e60>
+      dirname = <function dirname at 0x7dc0a4972a70>
+      join = <function join at 0x7dc0a49727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7dc0a52c3400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7dc0a52c3400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x7b8e5bb93ac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x7b8e5d376e60>
+      dirname = <function dirname at 0x7b8e5d376a70>
+      join = <function join at 0x7b8e5d3767a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7b8e5dd2f400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7b8e5dd2f400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x7a8aaa887ac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x7a8aac072e60>
+      dirname = <function dirname at 0x7a8aac072a70>
+      join = <function join at 0x7a8aac0727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7a8aac163400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x7a8aac163400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x73c9cda9fac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x73c9cf272e60>
+      dirname = <function dirname at 0x73c9cf272a70>
+      join = <function join at 0x73c9cf2727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x73c9cf363400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x73c9cf363400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x70662509bac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x706626872e60>
+      dirname = <function dirname at 0x706626872a70>
+      join = <function join at 0x7066268727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x706626963400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x706626963400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x75e312687ac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x75e313e72e60>
+      dirname = <function dirname at 0x75e313e72a70>
+      join = <function join at 0x75e313e727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x75e313f63400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x75e313f63400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/bench_helper.py", line 89, in get_app_commands
+    app_command_module = importlib.import_module(f"{app}.commands")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 992, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+Backup failed for Site sans. Database or site_config.json may be corrupted
+Traceback with variables (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 887, in backup
+    frappe.init(site=site)
+      context = {'sites': ['sans'], 'force': False, 'verbose': True, 'profile': False}
+      with_files = False
+      backup_path = None
+      backup_path_db = None
+      backup_path_files = None
+      backup_path_private_files = None
+      backup_path_conf = None
+      ignore_backup_conf = False
+      verbose = True
+      compress = False
+      include = ''
+      exclude = ''
+      old_backup_metadata = False
+      scheduled_backup = <function scheduled_backup at 0x75c40b09bac0>
+      exit_code = 0
+      site = 'sans'
+  File "apps/frappe/frappe/__init__.py", line 308, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+      site = 'sans'
+      sites_path = '.'
+      new_site = False
+      force = False
+  File "apps/frappe/frappe/__init__.py", line 1723, in setup_module_map
+    for module in get_module_list(app):
+      include_all_apps = True
+      apps = ['frappe', 'rty', 'erpnext']
+      app = 'erpnext'
+      module = 'rty'
+  File "apps/frappe/frappe/__init__.py", line 1570, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+      app_name = 'erpnext'
+  File "apps/frappe/frappe/__init__.py", line 1535, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+      app_name = 'erpnext'
+      joins = ('modules.txt',)
+  File "apps/frappe/frappe/__init__.py", line 1565, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+      modulename = 'erpnext'
+      joins = ['modules.txt']
+      abspath = <function abspath at 0x75c40c872e60>
+      dirname = <function dirname at 0x75c40c872a70>
+      join = <function join at 0x75c40c8727a0>
+  File "apps/frappe/frappe/__init__.py", line 1506, in get_module
+    return importlib.import_module(modulename)
+      modulename = 'erpnext'
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+      name = 'erpnext'
+      package = None
+      level = 0
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x75c40c963400>
+      module = <exception while printing> Traceback (most recent call last):
+          File "env/lib/python3.10/site-packages/traceback_with_variables/core.py", line 222, in _to_cropped_str
+            raw = print_(obj)
+          File "apps/frappe/frappe/utils/__init__.py", line 334, in dict_printer
+            if key in v:
+        TypeError: argument of type 'object' is not iterable
+        
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+      name = 'erpnext'
+      import_ = <function _gcd_import at 0x75c40c963400>
+      path = None
+      parent = ''
+      spec = None
+builtins.ModuleNotFoundError: No module named 'erpnext'

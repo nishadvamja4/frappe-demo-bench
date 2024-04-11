@@ -1,0 +1,124 @@
+2024-03-13 12:29:23,013 ERROR frappe New Exception collected in error log
+Site: NV
+Form Dict: {'doctype': 'Server Side Script', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-13 16:20:20,589 ERROR frappe New Exception collected in error log
+Site: NV
+Form Dict: {'doctype': 'Server Side Script', 'with_parent': '1', 'cached_timestamp': '2024-03-13 16:18:39.466713', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-13 16:20:51,668 ERROR frappe New Exception collected in error log
+Site: NV
+Form Dict: {'doctype': 'Server Side Script', 'with_parent': '1', 'cached_timestamp': '2024-03-13 16:18:39.466713', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 19:23:24,418 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'with_parent': '1', 'cached_timestamp': '2024-03-14 16:59:41.538712', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 19:23:45,139 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'with_parent': '1', 'cached_timestamp': '2024-03-14 16:59:41.538712', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 19:24:03,197 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 19:24:12,592 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 19:24:33,279 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 19:24:54,448 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 19:25:08,030 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 19:27:04,374 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'name': 'CLI-005', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-19 19:27:08,192 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'name': 'CLI-004', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-19 19:27:12,214 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'name': 'CLI-005', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-19 19:27:29,154 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 19:29:29,466 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'with_parent': '1', 'cached_timestamp': '2024-03-14 16:59:41.538712', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 19:29:58,090 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 19:35:35,451 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Client Side Script', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-19 19:38:45,162 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Server Side Script', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-20 10:08:18,881 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Server Side Script', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-20 10:10:17,127 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Server Side Script', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-20 10:11:00,662 ERROR frappe New Exception collected in error log
+Site: sans
+Form Dict: {'doctype': 'Server Side Script', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-03-20 10:45:17,259 ERROR frappe Could not take error snapshot: Module Core not found
+Site: sans
+Form Dict: {}
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/auth.py", line 118, in __init__
+    self.make_session(resume=True)
+  File "/home/nishad/brother/apps/frappe/frappe/auth.py", line 204, in make_session
+    frappe.local.session_obj = Session(
+  File "/home/nishad/brother/apps/frappe/frappe/sessions.py", line 207, in __init__
+    self.resume()
+  File "/home/nishad/brother/apps/frappe/frappe/sessions.py", line 283, in resume
+    validate_ip_address(self.user)
+  File "/home/nishad/brother/apps/frappe/frappe/auth.py", line 430, in validate_ip_address
+    ip_list = get_restricted_ip_list(user_info)
+  File "/home/nishad/brother/apps/frappe/frappe/core/doctype/user/user.py", line 1318, in get_restricted_ip_list
+    if not user.restrict_ip:
+AttributeError: 'NoneType' object has no attribute 'restrict_ip'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/app.py", line 95, in application
+    init_request(request)
+  File "/home/nishad/brother/apps/frappe/frappe/app.py", line 191, in init_request
+    frappe.local.http_request = HTTPRequest()
+  File "/home/nishad/brother/apps/frappe/frappe/auth.py", line 42, in __init__
+    self.set_session()
+  File "/home/nishad/brother/apps/frappe/frappe/auth.py", line 76, in set_session
+    frappe.local.login_manager = LoginManager()
+  File "/home/nishad/brother/apps/frappe/frappe/auth.py", line 123, in __init__
+    self.get_user_info()
+  File "/home/nishad/brother/apps/frappe/frappe/auth.py", line 162, in get_user_info
+    self.user_type = self.info.user_type
+AttributeError: 'NoneType' object has no attribute 'user_type'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nishad/brother/apps/frappe/frappe/utils/error.py", line 86, in log_error_snapshot
+    log_error(title=str(exception), defer_insert=True)
+  File "/home/nishad/brother/apps/frappe/frappe/utils/error.py", line 61, in log_error
+    error_log = frappe.get_doc(
+  File "/home/nishad/brother/apps/frappe/frappe/__init__.py", line 1363, in get_doc
+    doc = frappe.model.document.get_doc(*args, **kwargs)
+  File "/home/nishad/brother/apps/frappe/frappe/model/document.py", line 83, in get_doc
+    controller = get_controller(doctype)
+  File "/home/nishad/brother/apps/frappe/frappe/model/base_document.py", line 67, in get_controller
+    return import_controller(doctype)
+  File "/home/nishad/brother/apps/frappe/frappe/model/base_document.py", line 96, in import_controller
+    module = load_doctype_module(doctype, module_name)
+  File "/home/nishad/brother/apps/frappe/frappe/modules/utils.py", line 230, in load_doctype_module
+    app = get_module_app(module)
+  File "/home/nishad/brother/apps/frappe/frappe/modules/utils.py", line 255, in get_module_app
+    frappe.throw(_("Module {} not found").format(module), exc=frappe.DoesNotExistError)
+  File "/home/nishad/brother/apps/frappe/frappe/__init__.py", line 677, in throw
+    msgprint(
+  File "/home/nishad/brother/apps/frappe/frappe/__init__.py", line 642, in msgprint
+    _raise_exception()
+  File "/home/nishad/brother/apps/frappe/frappe/__init__.py", line 593, in _raise_exception
+    raise exc
+frappe.exceptions.DoesNotExistError: Module Core not found
